@@ -7,3 +7,59 @@
     width: 100%;
     
 }
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: rgba(255, 255, 255, 0.658);
+}
+.navbar-button{
+    margin-right: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    border: none;
+    
+}
+.navbar-button1{
+    margin-right: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    
+}
+
+.navbar-button:hover{
+    margin-right: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgba(255, 255, 255, 0.418);
+    border: none;
+    
+}
+.navbar-button1:hover{
+    margin-right: 10px;
+    background-color: rgba(255, 255, 255, 0.082);
+    color: rgba(255, 255, 255, 0.589);
+    
+}
+
+.git-button{
+    display:inline-flex;
+    align-items: center;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-top: 55%;
+    padding: 10px 10px 10px 10px ;
+    
+   
+    
+}
+.button-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+
+    
+}
+
