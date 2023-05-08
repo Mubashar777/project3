@@ -38,9 +38,13 @@
 }
 .navbar-button1:hover{
     margin-right: 10px;
-    background-color: rgba(255, 255, 255, 0.082);
+    background-color: rgba(255, 255, 255, 0.212);
     color: rgba(255, 255, 255, 0.589);
     
+}
+
+.form-control{
+    background-color: rgba(128, 128, 128, 0.295);
 }
 
 .git-button{
@@ -51,6 +55,7 @@
     border-radius: 50px;
     margin-top: 55%;
     padding: 10px 10px 10px 10px ;
+ 
     
    
     
@@ -61,5 +66,13 @@
     margin-left: 10px;
 
     
+}
+
+.heading-h1{
+    color: rgba(255, 255, 255, 0.685);
+}
+
+.heading-h0{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
