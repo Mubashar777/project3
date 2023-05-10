@@ -1,3 +1,7 @@
+.section-1{
+    height: 100vh;
+    width: 100%;
+}
 .background-image{
     background: url(/assets/github-bg.webp);
     background-position: center center;
@@ -53,8 +57,9 @@
     color: white;
     border: 1px solid white;
     border-radius: 50px;
-    margin-top: 55%;
+    margin-top: 25%;
     padding: 10px 10px 10px 10px ;
+    cursor: pointer;
  
     
    
@@ -76,3 +81,73 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+#basic-addon2{
+   background-color: #6e40c9;
+   color: white;
+   border-radius: 2px;
+   border: none;
+   cursor: pointer;
+   font-family: inherit;
+font-weight: 700;
+}
+
+#basic-addon2:hover{
+    background-color: #6e40c9a2;
+    color: white;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+font-weight: 700;
+ }
+
+.form-control{
+    height: 3rem;
+    border: none;
+    background-color: white;
+
+    
+    
+}
+
+.free-trail{
+    border-color: rgba(255, 255, 255, 0.466);
+    background-color: rgb(46, 160, 65);
+    color: white;
+    font-family: inherit;
+    font-weight: 700;
+}
+
+.free-trail:hover{
+border: 2px;
+color: white;
+border-color: white;
+background-color: #6e40c9;
+font-family: inherit;
+font-weight: 700;
+
+
+
+
+}
+ 
+
+
+
+
+/* section-2 */
+
+.section-background-2{
+    background: url(/assets/section2\ background.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sec-2-p1{
+    color: rgba(255, 255, 255, 0.685);
+}
+
+ 
