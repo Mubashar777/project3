@@ -47,9 +47,24 @@
     
 }
 
-.form-control{
-    background-color: rgba(128, 128, 128, 0.295);
+.navbar-form{
+   color: rgba(240, 248, 255, 0.205);
 }
+
+
+.navbar-form{
+color: rgba(255, 255, 255, 0.24);
+}
+
+
+
+
+
+
+
+
+
+
 
 .git-button{
     display:inline-flex;
@@ -148,6 +163,46 @@ font-weight: 700;
 
 .sec-2-p1{
     color: rgba(255, 255, 255, 0.685);
+
 }
+
+.sec-2-p1 p{
+    color: rgba(255, 255, 255, 0.685);
+    margin-top: 50px;
+        
+}
+
+
+
+.logo-1 img {
+    width: 100%;
+    max-width: 100%;
+  }
+
+
+
+
+
+  @media (max-width: 576px) {
+  .logo-pics .col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+    margin-bottom: 25px;
+  }
+  .logo-pics .col:nth-child(even) {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .logo-pics .col img {
+    height: 44px;
+    max-width: 100%;
+  }
+}
+
+  
+  
+  
 
  
