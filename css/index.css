@@ -111,8 +111,8 @@ font-weight: 700;
 }
 
 .free-trail{
-    border-color: rgba(255, 255, 255, 0.466);
-    background-color: rgb(46, 160, 65);
+    border-color: rgba(255, 255, 255, 0.699);
+    background-color: rgba(46, 160, 65, 0);
     color: white;
     font-family: inherit;
     font-weight: 700;
