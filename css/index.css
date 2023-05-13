@@ -179,6 +179,8 @@ font-weight: 700;
     max-width: 100%;
   }
 
+ 
+
 
 
 
@@ -189,7 +191,7 @@ font-weight: 700;
     justify-content: center;
     align-items: center;
     padding: 0 25px;
-    margin-bottom: 25px;
+    margin-top: 50px;
   }
   .logo-pics .col:nth-child(even) {
     margin-left: 20px;
